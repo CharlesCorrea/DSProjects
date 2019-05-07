@@ -1,2 +1,2 @@
 # DSProjects
-Data Science - Machine Learning - IA Projects
+Data Science - Machine Learning - AI
